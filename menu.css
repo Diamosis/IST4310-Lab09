@@ -1,0 +1,111 @@
+\\*{ margin: 0px; padding: 0px; }
+
+body {
+  background-color: #121212;
+  }
+
+#main_container {
+  margin: auto;
+  padding: auto;
+  background-color: #212121;
+  max-width: 1450px;
+  padding-bottom: 20px;
+  }
+
+#tapas {
+  float: left;
+  background-color: #212121;
+  width: 23.375%;
+  padding-left: 1%;
+  font-family: Times New Roman;
+  line-height: normal;
+  color: white;
+  }
+
+#drinks {
+  float: left;
+  background-color: #212121;
+  width: 23.375%;
+  padding-left: 1.5%;
+  font-family: Times New Roman;
+  line-height: normal;
+  color: white;
+  }
+
+#entrees {
+  float: left;
+  background-color: #212121;
+  width: 23.375%;
+  padding-left: 1.5%;
+  font-family: Times New Roman;
+  line-height: normal;
+  color: white;
+  }
+
+#desserts {
+  float: left;
+  background-color: #212121;
+  width: 23.375%;
+  padding-left: 1.5%;
+  padding-right: 1%;
+  font-family: Times New Roman;
+  line-height: normal;
+  color: white;
+  }
+
+h1 {
+  font-family: Times New Roman;
+  font-size: 40px;
+  color: white;
+  }
+
+h2 {
+  margin-top: 16px;
+  margin-bottom: 4px;
+  }
+
+h3 {
+  margin-top: 12px;
+  margin-bottom: 4px;
+  }
+
+/*
+@media (min-width: 690px) {
+
+  body {
+	background-color: #121212;
+	}
+
+  #main_container {
+	margin: auto;
+	padding: auto;
+	}
+
+  #tapas {
+	float: left;
+	width: 21%;
+	margin-left: 5%
+	}
+
+  #drinks {
+	width: 21%;
+	clear: none;
+	float: left;
+	margin-left: 2%;
+	}
+  
+  #entrees {
+	width: 21%;
+	clear: none;
+	float: left;
+	margin-left: 2%;
+	}
+
+  #desserts {
+	width: 21%;
+	float: left;
+	margin-left: 2%;
+	margin-right: 5%;
+	}
+  }
+*/
